@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {"type": "neoforge:mod_loaded", "modid": "supplementaries"},
+    {"type": "supplementaries:flag", "flag": "fire_pit"}
+  ],
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_campfire": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {"items": [{"items": "minecraft:campfire"}]}
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {"recipe": "supplementaries:fire_pit"}
+    }
+  },
+  "requirements": [["has_campfire", "has_the_recipe"]],
+  "rewards": {"recipes": ["supplementaries:fire_pit"]}
+}

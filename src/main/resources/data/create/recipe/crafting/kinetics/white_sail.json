@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "pattern": [
+    "WS",
+    "SF"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "F": {
+      "tag": "townyeras:sail_fiber"
+    }
+  },
+  "result": {
+    "id": "create:white_sail",
+    "count": 2
+  }
+}

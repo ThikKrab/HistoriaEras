@@ -1,0 +1,9 @@
+Copyright (c) 2026 HistoriaMC. All rights reserved.
+
+This HistoriaEras prototype and its source code are provided for HistoriaMC
+development and evaluation. No permission is granted to copy, redistribute,
+publish, sublicense, or sell this code without written permission from the
+copyright holder.
+
+The original NeoForge MDK template files are separately covered by
+TEMPLATE_LICENSE.txt.

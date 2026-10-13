@@ -1,0 +1,7 @@
+Automated tests: 57; failures/errors: 0.
+Isolated Minecraft runtime/UI: passed.
+New command and legacy redirect: passed; admin permissions preserved.
+JAR metadata, renamed entry point and absence of stale entry point: passed.
+All technology definitions match 0.7.0 exactly except source version.
+Existing compatibility IDs and progress/config paths preserved.
+Live deployment: not performed.

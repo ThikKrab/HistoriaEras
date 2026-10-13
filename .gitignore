@@ -1,0 +1,50 @@
+# Build outputs and caches
+.gradle/
+build/
+out/
+bin/
+repo/
+outputs/
+work/
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local Minecraft instances, worlds and generated files
+run/
+run-*/
+config/
+mods/
+saves/
+world/
+logs/
+crash-reports/
+screenshots/
+**/src/generated/**/.cache/
+
+# Secrets and machine-local settings
+.env
+.env.*
+!.env.example
+gradle-local.properties
+local.properties
+townyeras-website.properties
+historiaeras-website.properties
+townyeras-website-state.properties
+townyeras-website-tech-tree.json
+*.pem
+*.key
+
+# IDE and OS files
+.idea/
+.run/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+.DS_Store
+Thumbs.db
+Desktop.ini

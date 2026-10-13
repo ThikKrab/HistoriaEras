@@ -1,0 +1,9 @@
+{
+  "key.categories.townyeras": "HistoriaEras",
+  "key.townyeras.open_dashboard": "Open HistoriaEras Dashboard",
+  "screen.townyeras.dashboard": "HistoriaEras",
+  "screen.townyeras.character": "Character",
+  "screen.townyeras.summary": "Civilization Summary",
+  "screen.townyeras.recenter": "Recenter technology tree",
+  "screen.townyeras.select_node": "Select a node"
+}

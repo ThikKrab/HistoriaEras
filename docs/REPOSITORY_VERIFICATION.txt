@@ -1,0 +1,11 @@
+HistoriaEras GitHub source package — 0.7.1-alpha
+Verified: separate repository folder, Java 21, clean build with --no-build-cache --rerun-tasks.
+Automated tests: 57; failures/errors: 0.
+All 117 source/resource/test files match the implementation source.
+Production mod JAR and sources JAR built successfully from this folder.
+Root Gradle wrapper and build files included; no external workspace helpers required.
+Local generated build outputs/caches intentionally excluded from the ZIP.
+Source/config-template scan found no credential-shaped values or personal absolute paths.
+Only a placeholder bridge secret is supplied; no live configs, worlds or third-party JARs included.
+GitHub workflow supplied but not executed on GitHub; no repository created or pushed.
+Previous isolated Minecraft UI/gameplay verification is recorded in RELEASE_TEST_REPORT_0.7.1.txt.

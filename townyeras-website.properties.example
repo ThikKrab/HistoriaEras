@@ -1,0 +1,9 @@
+# Copy this file to config/townyeras-website.properties on the dedicated server.
+# Never put the shared secret in a client modpack.
+enabled=true
+tree-endpoint=https://historiamc.com/api/minecraft/tech-tree
+publications-endpoint=https://historiamc.com/api/minecraft/tech-publications
+source-server-key=historia-primary
+shared-secret=REPLACE_WITH_THE_SERVER_BRIDGE_SECRET
+poll-seconds=60
+publish-seconds=300

@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.historiamc.townyeras.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "SlotGateMixin",
+    "RecipeMenuQuickMoveMixin",
+    "BeehiveHarvestMixin",
+    "NaturalAnimalDropMixin",
+    "SourceItemMergeMixin",
+    "FurnaceProcessMixin",
+    "CampfireProcessMixin",
+    "CuttingBoardProcessMixin",
+    "CookingPotProcessMixin",
+    "KegProcessMixin",
+    "HarvestResourceMixin",
+    "LootSourceMixin",
+    "VehicleMountGateMixin",
+    "CartPullGateMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

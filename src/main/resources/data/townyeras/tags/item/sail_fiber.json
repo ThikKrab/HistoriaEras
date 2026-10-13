@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "supplementaries:flax",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:cotton_boll",
+      "required": false
+    }
+  ]
+}

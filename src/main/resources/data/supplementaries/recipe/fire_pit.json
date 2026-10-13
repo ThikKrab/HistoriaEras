@@ -1,0 +1,13 @@
+{
+  "neoforge:conditions": [
+    {"type": "neoforge:mod_loaded", "modid": "supplementaries"},
+    {"type": "supplementaries:flag", "flag": "fire_pit"}
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["CFC", "CCC"],
+  "key": {
+    "C": {"item": "minecraft:copper_ingot"},
+    "F": {"item": "minecraft:campfire"}
+  },
+  "result": {"id": "supplementaries:fire_pit", "count": 1}
+}
